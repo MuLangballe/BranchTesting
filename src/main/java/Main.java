@@ -5,5 +5,8 @@ public class Main {
 
         doggie.makeSound();
         catsie.makeSound();
+
+        doggie.eat("dogfood");
+        catsie.eat("fish");
     }
 }
